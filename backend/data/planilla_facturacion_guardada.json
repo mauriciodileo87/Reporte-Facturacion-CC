@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "generado": "2026-03-04T10:33:18",
+  "planillas": {
+    "Quiniela": {
+      "codigo_juego": 80,
+      "columnas": [
+        "sorteo",
+        "t_recaud",
+        "t_comi",
+        "t_prem",
+        "r_recaud",
+        "r_comi",
+        "r_prem",
+        "d1_recaud",
+        "d1_comi",
+        "d1_prem",
+        "s_recaud",
+        "s_comi",
+        "s_prem",
+        "d2_recaud",
+        "d2_comi",
+        "d2_prem"
+      ],
+      "filas": []
+    }
+  }
+}
